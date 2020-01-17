@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: scanyuan
-Version: 0.0.6
+Version: 0.0.8
 Summary: modified scanpy functions to plot AnnData
 Home-page: https://github.com/seqyuan/scanyuan
 Author: seqyuan
@@ -9,4 +9,6 @@ License: MIT
 Download-URL: https://codeload.github.com/seqyuan/scanyuan/zip/master
 Description: modified scanpy functions to plot AnnData
 Platform: UNKNOWN
-Provides-Extra: scanpy
+Provides-Extra: anndata
+Provides-Extra: seaborn
+Provides-Extra: pandas

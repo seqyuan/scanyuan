@@ -4,7 +4,7 @@ from setuptools import (
 
 setup(
     name="scanyuan",
-    version = "0.0.6",
+    version = "0.0.8",
     author="seqyuan",
     author_email='seqyuan@gmail.com',
     url="https://github.com/seqyuan/scanyuan",
@@ -14,7 +14,9 @@ setup(
     license="MIT",
     packages=['scanyuan'],
     extras_require = {
-        'scanpy' : [ 'scanpy']
+        'anndata' : ['anndata'],
+		'seaborn' : ['seaborn'],
+		'pandas' : ['pandas'],
     }
 )
 

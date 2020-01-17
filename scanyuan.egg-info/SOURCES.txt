@@ -1,0 +1,10 @@
+README.md
+README.rst
+setup.cfg
+setup.py
+scanyuan/__init__.py
+scanyuan.egg-info/PKG-INFO
+scanyuan.egg-info/SOURCES.txt
+scanyuan.egg-info/dependency_links.txt
+scanyuan.egg-info/requires.txt
+scanyuan.egg-info/top_level.txt

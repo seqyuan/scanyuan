@@ -18,7 +18,8 @@ marker_genes = ['Stfa1', 'Ngp', 'Ccl5', 'Ccl4', 'BC100530', 'Gzma', 'Gata2', 'Cd
 
 ax = scy.stacked_violin_t(adata, marker_genes, figsize=[8,7], groupby='ClusterName')
 ```
-# 单细胞分析R包Seurat对象转loom格式请查看[僵小鱼的故事](http://www.seqyuan.com/jiangxiaoyu%20story.html)
+
+单细胞分析R包Seurat对象转loom格式请查看[僵小鱼的故事](http://www.seqyuan.com/jiangxiaoyu%20story.html)
 
 # 效果
 <img src="https://raw.githubusercontent.com/seqyuan/scanyuan/master/scy.png" width = "400" alt="" />

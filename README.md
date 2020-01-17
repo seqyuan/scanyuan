@@ -20,12 +20,12 @@ ax = scy.stacked_violin_t(adata, marker_genes, figsize=[8,7], groupby='ClusterNa
 ```
 
 # 效果
-![scy.png](https://raw.githubusercontent.com/seqyuan/scanyuan/master/scy.png=40)
+![scy.png](https://raw.githubusercontent.com/seqyuan/scanyuan/master/scy.png =40)
 
 # 来自文献类的图
-![1111.png](https://raw.githubusercontent.com/seqyuan/scanyuan/master/1111.png=40)
+![1111.png](https://raw.githubusercontent.com/seqyuan/scanyuan/master/1111.png =40)
 
-![2222.png](https://raw.githubusercontent.com/seqyuan/scanyuan/master/2222.png=40)
+![2222.png](https://raw.githubusercontent.com/seqyuan/scanyuan/master/2222.png =40)
 
 
 

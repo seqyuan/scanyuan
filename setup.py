@@ -4,7 +4,7 @@ from setuptools import (
 
 setup(
     name="scanyuan",
-    version = "0.0.5",
+    version = "0.0.6",
     author="seqyuan",
     author_email='seqyuan@gmail.com',
     url="https://github.com/seqyuan/scanyuan",

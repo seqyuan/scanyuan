@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: scanyuan
-Version: 0.0.5
+Version: 0.0.6
 Summary: modified scanpy functions to plot AnnData
 Home-page: https://github.com/seqyuan/scanyuan
 Author: seqyuan

@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # coding=utf-8
 
-import scanpy as sc
+#import scanpy as sc
 
 import collections.abc as cabc
 from itertools import product
